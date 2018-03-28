@@ -1,0 +1,28 @@
+C:\Users\HouleR1\source\repos\MovieDatabase\MovieDatabase\bin\Debug\Movies.mdf
+C:\Users\HouleR1\source\repos\MovieDatabase\MovieDatabase\bin\Debug\Movies_log.ldf
+C:\Users\HouleR1\source\repos\MovieDatabase\MovieDatabase\bin\Debug\EntityFramework.dll
+C:\Users\HouleR1\source\repos\MovieDatabase\MovieDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HouleR1\source\repos\MovieDatabase\MovieDatabase\bin\Debug\EntityFramework.xml
+C:\Users\HouleR1\source\repos\MovieDatabase\MovieDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HouleR1\source\repos\MovieDatabase\MovieDatabase\obj\Debug\MovieDatabase.csprojResolveAssemblyReference.cache
+C:\Users\HouleR1\source\repos\MovieDatabase\MovieDatabase\obj\Debug\MovieDatabase.csproj.CoreCompileInputs.cache
+C:\Users\HouleR1\source\repos\MovieDatabase\MovieDatabase\obj\Debug\MovieDatabase.csproj.CopyComplete
+C:\Users\HouleR1\source\repos\MovieDatabase\MovieDatabase\obj\Debug\MovieDatabase.dll
+C:\Users\HouleR1\source\repos\MovieDatabase\MovieDatabase\obj\Debug\MovieDatabase.pdb
+C:\Users\HouleR1\source\repos\MovieDatabase\MovieDatabase\bin\Debug\MovieDatabase.dll.config
+C:\Users\HouleR1\source\repos\MovieDatabase\MovieDatabase\bin\Debug\MovieDatabase.dll
+C:\Users\HouleR1\source\repos\MovieDatabase\MovieDatabase\bin\Debug\MovieDatabase.pdb
+C:\Users\HouleR1\Documents\VS Practice\FinalPJ\MovieDatabase\bin\Debug\Movies.mdf
+C:\Users\HouleR1\Documents\VS Practice\FinalPJ\MovieDatabase\bin\Debug\Movies_log.ldf
+C:\Users\HouleR1\Documents\VS Practice\FinalPJ\MovieDatabase\bin\Debug\MovieDatabase.dll.config
+C:\Users\HouleR1\Documents\VS Practice\FinalPJ\MovieDatabase\bin\Debug\MovieDatabase.dll
+C:\Users\HouleR1\Documents\VS Practice\FinalPJ\MovieDatabase\bin\Debug\MovieDatabase.pdb
+C:\Users\HouleR1\Documents\VS Practice\FinalPJ\MovieDatabase\bin\Debug\EntityFramework.dll
+C:\Users\HouleR1\Documents\VS Practice\FinalPJ\MovieDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HouleR1\Documents\VS Practice\FinalPJ\MovieDatabase\bin\Debug\EntityFramework.xml
+C:\Users\HouleR1\Documents\VS Practice\FinalPJ\MovieDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HouleR1\Documents\VS Practice\FinalPJ\MovieDatabase\obj\Debug\MovieDatabase.csprojResolveAssemblyReference.cache
+C:\Users\HouleR1\Documents\VS Practice\FinalPJ\MovieDatabase\obj\Debug\MovieDatabase.csproj.CoreCompileInputs.cache
+C:\Users\HouleR1\Documents\VS Practice\FinalPJ\MovieDatabase\obj\Debug\MovieDatabase.csproj.CopyComplete
+C:\Users\HouleR1\Documents\VS Practice\FinalPJ\MovieDatabase\obj\Debug\MovieDatabase.dll
+C:\Users\HouleR1\Documents\VS Practice\FinalPJ\MovieDatabase\obj\Debug\MovieDatabase.pdb
